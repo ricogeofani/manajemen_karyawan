@@ -49,7 +49,7 @@
             <div class="col-xl-6">
                 <table class="table table-borderd">
                     <tr>
-                        <th>Nama</th>
+                        <th>Nama Karyawan</th>
                         <th>Jabatan</th>
                         <th>Absen</th>
                         <th>Keterangan</th>
